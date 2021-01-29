@@ -12,6 +12,9 @@ function App() {
         <p>
           For now, this will be used as a placeholder. A functional app will be deployed here later.
         </p>
+        <p>
+          Small update... debugging git issues.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
