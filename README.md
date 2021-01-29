@@ -1,3 +1,10 @@
+# Placeholder App using Create React App
+
+This repository was created to leverage "create react app" and use it as a placeholder for an app to be deployed in the future.\
+For now, it will only have the basic functionalities that comes out-of-the-box.\
+Below, find the usual instructions for "create react app":
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
